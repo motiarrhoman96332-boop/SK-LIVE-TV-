@@ -32,4 +32,27 @@ render.experimental.xml
 google-services.json
 
 # Android Profiling
-*.hprof
+*.hprof 
+I want to build a complete Android IPTV application named "My IPTV" using Flutter.
+
+App Requirements:
+
+1. App Name: My IPTV
+2. Platform: Android Mobile and Android TV.
+3. Live TV streaming using M3U8 URL.
+4. Video player with Play and Pause controls.
+5. Full-screen video playback.
+6. Landscape mode support.
+7. SK Live TV channel logo and branding.
+8. No login or registration required.
+9. Simple and professional user interface.
+10. Smooth and stable live streaming.
+
+My Live TV Stream URL:
+https://rs.porosh.com.bd/app/sktv/master.m3u8
+
+I am a beginner and I am developing this project using only an Android mobile phone.
+
+Please provide complete source code and step-by-step instructions to build and install the My IPTV Android application.
+
+Thank you.
